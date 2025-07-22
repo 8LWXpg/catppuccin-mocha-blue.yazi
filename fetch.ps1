@@ -1,6 +1,6 @@
 $links = @(
 	@('https://github.com/catppuccin/yazi/raw/refs/heads/main/themes/mocha/catppuccin-mocha-blue.toml', 'flavor.toml'),
-	@('https://github.com/catppuccin/yazi/raw/refs/heads/main/LICENSE', 'LICENSE')
+	@('https://github.com/catppuccin/yazi/raw/refs/heads/main/LICENSE', 'LICENSE'),
 )
 
 foreach ($link in $links) {
